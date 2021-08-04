@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <!--
-**jessicalopes2/jessicalopes2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+**Jessica Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Olaa! Bem Vindo ao meu Perfil...
+
+Me chamo Jéssica estou cursando Analise e Desenvolvimento de Sistemas, tenho alvo de me especializar em Front-End para Web e Mobile, 👨🏻‍💻.
+No meu tempo livre, procuro aprender coisas novas,ouvir musica, passar tempo com meus amigos, ler, tomar chá 🍵 e viajar ✈
+
