@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 -->
 
 ### Olaa! Bem Vindo ao meu Perfil...
-
+<div><br>
 Me chamo Jéssica estou cursando Analise e Desenvolvimento de Sistemas, tenho alvo de me especializar em Front-End para Web e Mobile, 👨🏻‍💻.
 No meu tempo livre, procuro aprender coisas novas,ouvir musica, passar tempo com meus amigos, ler, tomar chá 🍵 e viajar ✈
+</div>
+<div style="display: inline_block" align="center"><br>
+  <a href="https://github.com/jessicalopes2">
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalopes2&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" align="left" alt="Jessica draw" src="https://user-images.githubusercontent.com/88450980/128229589-7a8c9615-47fe-4d1f-b52f-1c12f05f556b.png"/>
+  </a><br>
+</div>
 
