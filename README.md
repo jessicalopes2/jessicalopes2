@@ -17,7 +17,6 @@ No meu tempo livre, procuro aprender coisas novas,ouvir musica, passar tempo com
   <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalopes2&layout=compact&langs_count=7&theme=dracula"/>
   <img height="160em" align="left" alt="Jessica draw" src="https://user-images.githubusercontent.com/88450980/128292369-00306fa9-6a81-4ebb-9109-b91a2023d085.gif"/>
  
-  
   </a><br>
 </div>
 <div style="display: inline_block"><br>
@@ -31,6 +30,4 @@ No meu tempo livre, procuro aprender coisas novas,ouvir musica, passar tempo com
  <div>
   <a href = "mailto:jessicatjlopes15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_red/a>
   <a href="https://www.linkedin.com/in/jéssica-lopes-a929a6150" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
  </div>
