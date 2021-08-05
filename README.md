@@ -14,8 +14,9 @@ No meu tempo livre, procuro aprender coisas novas,ouvir musica, passar tempo com
 </div><br>
 <div>
   <a href="https://github.com/jessicalopes2">
-  <img height="160em" align="left" alt="Jessica draw" src="https://user-images.githubusercontent.com/88450980/128292369-00306fa9-6a81-4ebb-9109-b91a2023d085.gif"/>
   <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalopes2&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" align="left" alt="Jessica draw" src="https://user-images.githubusercontent.com/88450980/128292369-00306fa9-6a81-4ebb-9109-b91a2023d085.gif"/>
+ 
   
   </a><br>
 </div>
