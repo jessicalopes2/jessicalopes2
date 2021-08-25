@@ -3,15 +3,15 @@
 
 <div><br>
   <a href="https://github.com/jessicalopes2">
-  <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalopes2&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" align="left" alt="Jessica draw" src="https://user-images.githubusercontent.com/88450980/128588015-28988823-5f85-4778-97ac-8fd878e30b18.gif"/>
- 
-  </a><br>
-</div></a>
-<div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-HTML" height="70" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="70" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Rafa-Js" height="70" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalopes2&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" align="right" alt="Jessica draw" src="https://user-images.githubusercontent.com/88450980/128588015-28988823-5f85-4778-97ac-8fd878e30b18.gif"/>
+    
+ <br>
+</div>
+<div><br>
+   <img align="stretch" alt="Rafa-HTML" height="70" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="stretch" alt="Rafa-CSS" height="70" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="stretch" alt="Rafa-Js" height="70" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div><br>
  
   ##    
