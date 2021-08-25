@@ -1,17 +1,6 @@
-<!--
-### Hi there 👋
-**Jessica Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Olá! Bem Vindo ao meu Perfil...
 
-- 🌱 Estou estudando Html,CSS e Javascripst
--->
-
-### Olaa! Bem Vindo ao meu Perfil...
-<div><br>
-Me chamo Jéssica estou cursando Analise e Desenvolvimento de Sistemas, tenho alvo de me especializar em Front-End para Web e Mobile, 👨🏻‍💻.
-No meu tempo livre, procuro aprender coisas novas,ouvir musica, passar tempo com meus amigos, ler, tomar chá 🍵 e viajar ✈
-</div><br>
 <div>
   <a href="https://github.com/jessicalopes2">
   <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalopes2&layout=compact&langs_count=7&theme=dracula"/>
