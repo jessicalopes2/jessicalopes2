@@ -1,5 +1,8 @@
-
-### Olá! Bem Vindo ao meu Perfil...
+<div style="display: inline_block" align:"center"> 
+  <h2> Jéssica Lopes </h2>
+</div>
+ 
+### Olá! Bem Vindo ao meu Perfil.
 
 <div><br>
   <a href="https://github.com/jessicalopes2">
